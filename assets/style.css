@@ -20,7 +20,7 @@ html {
     scroll-behavior: smooth;
 }
 
-#element {
+#element1 {
     height: 100px;
     width: 100%;
 
@@ -29,7 +29,35 @@ html {
     scroll-margin-block-end: 110px;
 }
 
-#otherElement {
+#otherElement1 {
     padding-top: 500px;
-    width: 100%
+    width: 100%;
+}
+
+#element2 {
+    height: 100px;
+    width: 100%;
+
+    scroll-margin-block-start: 110px;
+
+    scroll-margin-block-end: 110px;
+}
+
+#otherElement2 {
+    padding-top: 500px;
+    width: 100%;
+}
+
+#element3 {
+    height: 100px;
+    width: 100%;
+
+    scroll-margin-block-start: 110px;
+
+    scroll-margin-block-end: 110px;
+}
+
+#otherElement2 {
+    padding-top: 500px;
+    width: 100%;
 }
