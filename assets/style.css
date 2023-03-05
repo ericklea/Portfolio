@@ -60,7 +60,11 @@ h2 {
 
 .fullheight-container {
     height: 100vh;
-  }
+}
+
+div li {
+
+}
 
 div a {
 
@@ -77,3 +81,7 @@ address {
 address a {
 
 }
+@media screen and (max-width: 768px) {
+    .card {
+      width: 100%;
+    }
