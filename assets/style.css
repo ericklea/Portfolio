@@ -36,12 +36,15 @@ nav a {
     
 }
 
-main {
-    background-color:rgb(92, 62, 120)
-}
 
-.main-page-sections{
-    
+.main-page-sections {
+    flex: 4;
+    background-color: #fff;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   
 }
 
 .About{
@@ -53,7 +56,7 @@ main {
 
     scroll-margin-block-start: 110px;
 
-    scroll-margin-block-end: 110px
+    scroll-margin-block-end: 110px   
 
 }
 
@@ -67,6 +70,10 @@ main {
     scroll-margin-block-start: 110px;
 
     scroll-margin-block-end: 110px
+}
+
+.Abstract-image {
+    width: 100%;
 }
 
 .Contact {
@@ -91,7 +98,6 @@ main {
     scroll-margin-block-start: 110px;
 
     scroll-margin-block-end: 110px
-
 }
 
 
