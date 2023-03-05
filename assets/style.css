@@ -1,4 +1,6 @@
-
+html {
+    scroll-behavior: smooth;
+}
 
 html, body {
     margin: 0px;
@@ -31,8 +33,12 @@ nav a {
     font-size: 20px;
 }
 
-html {
-    scroll-behavior: smooth;
+main {
+    background-color:rgb(92, 62, 120)
+}
+
+section {
+    
 }
 
 .section-page {
