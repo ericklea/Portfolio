@@ -20,7 +20,7 @@ html {
     scroll-behavior: smooth;
 }
 
-#element1 {
+.section-page {
     height: 100px;
     width: 100%;
 
@@ -34,30 +34,12 @@ html {
     width: 100%;
 }
 
-#element2 {
-    height: 100px;
-    width: 100%;
-
-    scroll-margin-block-start: 110px;
-
-    scroll-margin-block-end: 110px;
-}
-
 #otherElement2 {
     padding-top: 500px;
     width: 100%;
 }
 
-#element3 {
-    height: 100px;
-    width: 100%;
-
-    scroll-margin-block-start: 110px;
-
-    scroll-margin-block-end: 110px;
-}
-
-#otherElement2 {
+#otherElement3 {
     padding-top: 500px;
     width: 100%;
 }
