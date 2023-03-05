@@ -19,3 +19,17 @@ header {
 html {
     scroll-behavior: smooth;
 }
+
+#element {
+    height: 100px;
+    width: 100%;
+
+    scroll-margin-block-start: 110px;
+
+    scroll-margin-block-end: 110px;
+}
+
+#otherElement {
+    padding-top: 500px;
+    width: 100%
+}
