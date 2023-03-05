@@ -27,6 +27,7 @@ header h1 {
 nav {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
 }
 
 nav a {
@@ -57,11 +58,9 @@ h2 {
     padding: 10px;
 }
 
-.container {
-    display: flex;
-    justify-content: center;
-
-}
+.fullheight-container {
+    height: 100vh;
+  }
 
 div p {
 
@@ -80,5 +79,5 @@ address {
 }
 
 address a {
-    
+
 }
