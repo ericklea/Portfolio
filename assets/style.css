@@ -23,7 +23,8 @@ html {
 .section-page {
     height: 100px;
     width: 100%;
-    margin: 0;
+    margin: 20px;
+    padding: 40px;
     display: flex;
 
     scroll-margin-block-start: 110px;
