@@ -39,11 +39,7 @@ main {
     background-color:rgb(92, 62, 120)
 }
 
-section {
-
-}
-
-.section-page {
+.About{
     height: 100%;
     width: 100%;
     margin: 20px;
@@ -52,8 +48,47 @@ section {
 
     scroll-margin-block-start: 110px;
 
-    scroll-margin-block-end: 110px;
+    scroll-margin-block-end: 110px
+
 }
+
+.Work {
+    height: 100%;
+    width: 100%;
+    margin: 20px;
+    padding: 40px;
+    display: flex;
+
+    scroll-margin-block-start: 110px;
+
+    scroll-margin-block-end: 110px
+}
+
+.Contact {
+    height: 100%;
+    width: 100%;
+    margin: 20px;
+    padding: 40px;
+    display: flex;
+
+    scroll-margin-block-start: 110px;
+
+    scroll-margin-block-end: 110px
+}
+
+.Resume {
+    height: 100%;
+    width: 100%;
+    margin: 20px;
+    padding: 40px;
+    display: flex;
+
+    scroll-margin-block-start: 110px;
+
+    scroll-margin-block-end: 110px
+
+}
+
 
 h2 {
     padding: 10px;
