@@ -48,7 +48,7 @@ nav a {
 }
 
 /* Main pages formatting attributes */
-.main-page-sections {
+.main-pages {
     flex: 4;
     padding: 20px;
     display: flex;
