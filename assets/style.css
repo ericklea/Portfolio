@@ -26,13 +26,14 @@ html, body {
 header h1 {
     font-size: 40px;
     padding: 30px;
+    
 }
 
 /* Header image formatting */
 .header-image {
-    position: absolute;
+    object-position: bottom center;
+    float: left;
     width: 15%;
-    top: 400px;
     max-width: 100%;
 }
 /* Navigation button formatting */
@@ -40,6 +41,7 @@ nav {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+
 }
 /* Navigation button font size */
 nav a {
