@@ -71,7 +71,7 @@ h2 {
 
 
 /* About section formatting attributes */
-.About{
+.main-sections{
     background-color: rgb(216, 164, 243);
     height: 100%;
     width: 100%;
@@ -83,20 +83,6 @@ h2 {
 
     scroll-margin-block-end: 110px   
 
-}
-
-/* Work section formatting attributes */
-.Work {
-    background-color: rgb(216, 164, 243);
-    height: 100%;
-    width: 100%;
-    margin: 20px;
-    padding: 40px;
-    display: flex;
-
-    scroll-margin-block-start: 110px;
-
-    scroll-margin-block-end: 110px
 }
 
 /* Accessibility project image formatting */
@@ -117,21 +103,7 @@ h2 {
     width:25%;
     max-width: 100%;
 
-}
-
-/* Contact section formatting attributes */
-.Contact {
-    background-color: rgb(216, 164, 243);
-    height: 100%;
-    width: 100%;
-    margin: 20px;
-    padding: 40px;
-    display: flex;
-
-    scroll-margin-block-start: 110px;
-
-    scroll-margin-block-end: 110px
-}   
+} 
 
 /* Responsive page style */
 
