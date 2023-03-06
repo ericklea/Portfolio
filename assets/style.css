@@ -78,10 +78,19 @@ nav a {
     scroll-margin-block-end: 110px
 }
 
-.Abstract-image {
+.Abstract-image-1 {
     width: 100%;
 }
 
+.Abstract-image-2{
+    width:50%;
+
+}
+
+.Abstract-image-3-4{
+    width:25%;
+
+}
 .Contact {
     height: 100%;
     width: 100%;
