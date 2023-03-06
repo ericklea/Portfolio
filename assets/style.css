@@ -29,6 +29,7 @@ header h1 {
     position: absolute;
     width: 15%;
     top: 400px;
+    max-width: 100%;
 }
 
 nav {
@@ -80,15 +81,18 @@ nav a {
 
 .Abstract-image-1 {
     width: 100%;
+    max-width: 100%;
 }
 
 .Abstract-image-2{
     width:50%;
+    max-width: 100%;
 
 }
 
 .Abstract-image-3-4{
     width:25%;
+    max-width: 100%;
 
 }
 .Contact {
