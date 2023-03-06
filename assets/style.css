@@ -46,7 +46,6 @@ nav a {
 
 .main-page-sections {
     flex: 4;
-    background-color: #fff;
     padding: 20px;
     display: flex;
     flex-wrap: wrap;
@@ -55,6 +54,7 @@ nav a {
 }
 
 .About{
+    background-color: rgb(216, 164, 243);
     height: 100%;
     width: 100%;
     margin: 20px;
@@ -68,6 +68,7 @@ nav a {
 }
 
 .Work {
+    background-color: rgb(216, 164, 243);
     height: 100%;
     width: 100%;
     margin: 20px;
@@ -96,6 +97,7 @@ nav a {
 
 }
 .Contact {
+    background-color: rgb(216, 164, 243);
     height: 100%;
     width: 100%;
     margin: 20px;
@@ -132,7 +134,7 @@ h2 {
 
 @media screen and (max-width: 800px)
 {
-    .left, .main, .right {
+    .left, .main, .main-header, .right {
         width: 100%
     }
 }
