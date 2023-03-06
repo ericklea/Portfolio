@@ -49,8 +49,8 @@ nav a {
     
 }
 
-/* Main pages formatting attributes */
-.main-pages {
+/* Main page formatting attributes */
+.main-page {
     flex: 4;
     padding: 20px;
     display: flex;
@@ -59,18 +59,7 @@ nav a {
    
 }
 
-/* Main pages section names text padding */
-h2 {
-    padding: 5%;
-}
-
-/* Main pages section pages space on screen */
-.fullheight-container {
-    height: 100%;
-}
-
-
-/* Main page sections pages formatting attributes */
+/* Main page sections formatting attributes */
 .main-sections{
     background-color: rgb(216, 164, 243);
     height: 100%;
@@ -83,6 +72,16 @@ h2 {
 
     scroll-margin-block-end: 110px   
 
+}
+
+/* Section names text padding */
+h2 {
+    padding: 5%;
+}
+
+/* Space on screen each section holds */
+.fullheight-container {
+    height: 100%;
 }
 
 /* Accessibility project image formatting */
