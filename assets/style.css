@@ -122,3 +122,22 @@ h2 {
         width: 100%;
     }
 }
+
+@media only screen and (min-width: 280px) and (max-width: 480px) {
+   .main-header{
+    display: flex;
+    flex-wrap: wrap;
+   }
+    #about{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #work{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #contact{
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
